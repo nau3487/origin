@@ -1,0 +1,3 @@
+Test file to see if it appears on my GitHub account.
+
+Further testing for causing an intentional error and then solving it.
